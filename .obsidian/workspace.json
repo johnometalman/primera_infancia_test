@@ -35,12 +35,8 @@
             "id": "9b0056f2f1ecac3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desarrollo Infantil Integral.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -110,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Desarrollo Infantil Integral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Desarrollo Infantil Integral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Desarrollo Infantil Integral.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -173,8 +165,8 @@
   },
   "active": "9b0056f2f1ecac3d",
   "lastOpenFiles": [
-    "Definición de Primera Infancia.md",
     "Desarrollo Infantil Integral.md",
+    "Definición de Primera Infancia.md",
     "Definición abogacía.md",
     "Definición Lobbying.md",
     "README.md"
