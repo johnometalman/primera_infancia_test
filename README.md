@@ -1,5 +1,7 @@
 ## Pasos a seguir 
-1. Crear una cuenta en Github.com
+
+1. Crear una cuenta en Github.com 
+	1. https://www.youtube.com/watch?v=LzVfVs5n3Gw&ab_channel=TodoCode
 2. Buscar el repositorio
 3. Forkear el repositorio
 4. Descargar Github Desktop
