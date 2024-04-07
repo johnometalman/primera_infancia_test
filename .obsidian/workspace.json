@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Definición Lobbying.md",
+                "file": "Definición abogacía.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab63fa7d3afe61bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Definición de Primera Infancia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Definición Lobbying.md",
+                "file": "Definición de Primera Infancia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Definición Lobbying.md",
+                "file": "Definición de Primera Infancia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Definición Lobbying.md"
+                "file": "Definición de Primera Infancia.md"
               }
             }
           }
@@ -146,9 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fed0b5908eed6f2",
+  "active": "ab63fa7d3afe61bf",
   "lastOpenFiles": [
     "Definición abogacía.md",
-    "Definición Lobbying.md"
+    "Definición de Primera Infancia.md",
+    "Definición Lobbying.md",
+    "README.md"
   ]
 }
