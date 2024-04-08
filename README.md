@@ -11,4 +11,5 @@
 	1. https://scribehow.com/shared/Crear_una_Bifurcacion_del_proyecto__Jjohv4KAQ0O2qAj33DNGbg
 	   
 4. Instala e inicia sesión en Github Desktop
+5. Esta es la rama test
    
