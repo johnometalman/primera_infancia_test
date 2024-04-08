@@ -12,3 +12,4 @@
 	   
 4. Instala e inicia sesión en Github Desktop
 5. Test de spyro  
+6. test de test-johnometalman
