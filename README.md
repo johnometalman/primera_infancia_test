@@ -14,8 +14,12 @@
 4. Instala e inicia sesión en Github Desktop
    
 5. Haz un clone del proyecto
+
+5. Test de spyro  
    
 6. Instala Obsidian
+
+6. test de test-johnometalman
    
 7. Crea un vault en donde creaste el clone del proyecto
-   
+  
